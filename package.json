@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
- "scripts": {
-  "start": "node app.js",
-  "test": "jest",
-  "archive-logs": "node scripts/archive-logs.js",
-  "check-disk": "node scripts/check-disk-usage.js"
-},
+  "scripts": {
+   "start": "node app.js",
+   "test": "jest",
+   "archive-logs": "node scripts/archive-logs.js",
+   "check-disk": "node scripts/check-disk-usage.js"
+ },
   "keywords": [],
   "author": "",
   "license": "ISC",
